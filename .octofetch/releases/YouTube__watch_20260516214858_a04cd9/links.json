@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5042",
+  "folder": "YouTube__watch_20260516214858_a04cd9",
+  "base_name": "nOfIjgyly_U_nOfIjgyly_U_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/shareazam5665-wq/Cloud-Downloads1/releases/tag/co-releases-v1-5042",
+  "files": [
+    {
+      "name": "nOfIjgyly_U_nOfIjgyly_U_1080p.mp4",
+      "url": "https://github.com/shareazam5665-wq/Cloud-Downloads1/releases/download/co-releases-v1-5042/nOfIjgyly_U_nOfIjgyly_U_1080p.mp4",
+      "api_url": "https://api.github.com/repos/shareazam5665-wq/Cloud-Downloads1/releases/assets/422073604",
+      "id": 422073604,
+      "size": 479843920,
+      "download_count": 0
+    }
+  ]
+}
