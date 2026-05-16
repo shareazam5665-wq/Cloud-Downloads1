@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1775",
+  "folder": "YouTube__watch_20260516215810_b2a8f8",
+  "base_name": "omMxKWMTWmA_omMxKWMTWmA_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/shareazam5665-wq/Cloud-Downloads1/releases/tag/co-releases-v1-1775",
+  "files": [
+    {
+      "name": "omMxKWMTWmA_omMxKWMTWmA_1080p.mp4",
+      "url": "https://github.com/shareazam5665-wq/Cloud-Downloads1/releases/download/co-releases-v1-1775/omMxKWMTWmA_omMxKWMTWmA_1080p.mp4",
+      "api_url": "https://api.github.com/repos/shareazam5665-wq/Cloud-Downloads1/releases/assets/422077190",
+      "id": 422077190,
+      "size": 294750099,
+      "download_count": 0
+    }
+  ]
+}
